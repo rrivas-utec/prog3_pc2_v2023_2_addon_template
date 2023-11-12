@@ -1,0 +1,3 @@
+limit_submissions: -1
+required_files: 
+  - find_max_product.h
