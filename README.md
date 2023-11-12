@@ -4,7 +4,7 @@
 **cmake project:** prog3_pc2_v2023_2_addon
 ## Instructions
 
-### Problema #3 - Producto mayor - Programación concurrente (10 pts)
+### Problema #1 - Producto mayor - Programación concurrente (4 pts)
 
 Escribir la función template `find_max_product` que reciba un contenedor secuencial genérico que procese de forma concurrente utilizando la máxima cantidad de hilos de hardware.
 
